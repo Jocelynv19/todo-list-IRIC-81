@@ -1,2 +1,2 @@
-# todo-list-IRIC-81
-Ejemplo flask
+# todo-list-flask
+Proyecto de Flask demostrativo para IDGS
